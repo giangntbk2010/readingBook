@@ -1,5 +1,5 @@
 Nghệ Thuật Đàm Phán Của Người Do Thái  
-Tác Giả: xxxx
+Tác Giả: Tạ Ngọc Loan biên soạn
 # Tổng hợp các điểm cốt lõi về nghệ thuật đàm phán
 
 ## 1. Tầm quan trọng của chuẩn bị trong đàm phán
