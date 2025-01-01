@@ -1,4 +1,4 @@
-Nghệ Thuật Đàm Phán Của Người Do Thái
+Nghệ Thuật Đàm Phán Của Người Do Thái  
 Tác Giả: xxxx
 # Tổng hợp các điểm cốt lõi về nghệ thuật đàm phán
 
