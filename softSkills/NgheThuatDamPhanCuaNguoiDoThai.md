@@ -1,3 +1,5 @@
+Nghệ Thuật Đàm Phán Của Người Do Thái
+Tác Giả: xxxx
 # Tổng hợp các điểm cốt lõi về nghệ thuật đàm phán
 
 ## 1. Tầm quan trọng của chuẩn bị trong đàm phán
