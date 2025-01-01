@@ -63,7 +63,7 @@ Tác Giả: xxxx
   - Nếu đàm phán diễn ra trong sự miễn cưỡng, thiếu thiện chí hoặc không tạo điều kiện cho đôi bên cùng có lợi, kết quả sẽ dẫn đến mâu thuẫn và không ai thực sự đạt được lợi ích.
 
 
-## 	9.	Chiến thuật chủ động nhượng bộ từ đầu (Theo Chu Ân Lai):
+## 9. Chiến thuật chủ động nhượng bộ từ đầu (Theo Chu Ân Lai):
 - Chủ động minh bạch ngay từ đầu:
   - Thông báo rõ ràng cho đối phương rằng nếu họ đồng ý với một yêu cầu quan trọng của mình, thì mình cũng sẵn sàng đáp ứng một số yêu cầu hợp lý từ phía họ.
 - Ưu điểm của chiến thuật:
@@ -159,7 +159,15 @@ Tác Giả: xxxx
 
 
 ## 17. Các bước đàm phán
-1. **Thu thập đầy đủ tài liệu:** Nắm vững thông tin liên quan để tự tin trong đàm phán.
-2. **Tạo không khí thoải mái:** Tránh làm căng thẳng tình hình, xây dựng môi trường tích cực.
-3. **Tiến hành từng bước:** Ghi chép lại những điều đã thỏa thuận, dù nhỏ, để ổn định tâm lý.
-4. **Tỏ thái độ không hài lòng:** Khi cần, sử dụng chiến thuật không hài lòng để củng cố lập trường và buộc đối phương phải cân nhắc.
+- Thu thập tài liệu liên quan:
+  - Nghiên cứu và chuẩn bị kỹ lưỡng các thông tin, tài liệu liên quan đến vấn đề đàm phán.
+  - Sự chuẩn bị đầy đủ giúp bạn nắm vững tình hình và tăng độ tự tin trong quá trình đàm phán.
+- Tạo không khí tốt:
+  - Bắt đầu cuộc đàm phán với thái độ thân thiện, tránh để không khí căng thẳng làm ảnh hưởng đến quá trình.
+  - Một môi trường tích cực sẽ giúp tăng cơ hội thỏa thuận và duy trì sự hợp tác lâu dài.
+- Khắc phục tính nóng vội:
+  - Đàm phán là quá trình cần thời gian, không nên vội vàng mong giành chiến thắng nhanh chóng.
+  - Tiến hành từng bước và ghi chép lại các mục đã đạt được thỏa thuận, kể cả những vấn đề nhỏ. Điều này giúp ổn định tâm lý và tạo động lực cho cả hai bên tiếp tục.
+- Thỉnh thoảng tỏ ý không hài lòng:
+  - Không nên giữ thái độ hòa khí suốt quá trình đàm phán, bởi điều này có thể khiến đối phương nghĩ bạn dễ dàng thỏa hiệp.
+  - Khi gặp vấn đề khó khăn hoặc cần củng cố lập trường, hãy tỏ thái độ không hài lòng một cách có chiến lược. Điều này buộc đối phương phải cân nhắc lại và có thể nhượng bộ.
